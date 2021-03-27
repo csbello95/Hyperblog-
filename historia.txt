@@ -2,6 +2,10 @@ Esta es la historia de Cristian Bello
 
 Cristian tiene 25 años y nacio en Bogotà
 
+<<<<<<< HEAD
 y va a viajar a Nueva Zelanda
 
 hoy hablaremos de su vida y obra maestra.
+=======
+Mañana nos enfocaremos en su vida laboral
+>>>>>>> cabecera
