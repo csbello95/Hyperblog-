@@ -5,3 +5,4 @@ Cristian tiene 25 años y nacio en Bogotà
 y va a viajar a Nueva Zelanda
 
 hoy hablaremos de su vida y obra maestra.
+nuevo cambio en el archivo historia.txt desde master.
